@@ -10,7 +10,7 @@ click == 7.0
 
 ## How To Run
 ```
-python setup.py
+pip3 install -e .
 
 or
 
